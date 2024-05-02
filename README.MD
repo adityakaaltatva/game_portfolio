@@ -2,8 +2,9 @@
 
 Inspired by the many creative 3D developer portfolios, I create one that's 2D instead.
 
-Live Demo : https://jslegenddev.github.io/portfolio/
+Build By using Vercel, Vite js .
 
+Live Demo : https://game-portfolio-tau.vercel.app/
 
 # How to run
 
